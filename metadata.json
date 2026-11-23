@@ -1,0 +1,6 @@
+{
+  "name": "Verso",
+  "description": "Embed and manage Cover (Back) artwork metadata tags in MP3 (ID3v2 APIC 0x04) and FLAC (PICTURE type 4) music files directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
